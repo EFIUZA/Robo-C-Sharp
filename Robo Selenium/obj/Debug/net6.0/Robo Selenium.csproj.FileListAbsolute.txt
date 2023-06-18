@@ -1,0 +1,21 @@
+C:\Users\enzof\OneDrive - SESISENAISP - Escolas\Codigos\C#\Robo Selenium\Robo Selenium\obj\Debug\net6.0\Robo Selenium.csproj.AssemblyReference.cache
+C:\Users\enzof\OneDrive - SESISENAISP - Escolas\Codigos\C#\Robo Selenium\Robo Selenium\obj\Debug\net6.0\Robo Selenium.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enzof\OneDrive - SESISENAISP - Escolas\Codigos\C#\Robo Selenium\Robo Selenium\obj\Debug\net6.0\Robo Selenium.AssemblyInfoInputs.cache
+C:\Users\enzof\OneDrive - SESISENAISP - Escolas\Codigos\C#\Robo Selenium\Robo Selenium\obj\Debug\net6.0\Robo Selenium.AssemblyInfo.cs
+C:\Users\enzof\OneDrive - SESISENAISP - Escolas\Codigos\C#\Robo Selenium\Robo Selenium\obj\Debug\net6.0\Robo Selenium.csproj.CoreCompileInputs.cache
+C:\Users\enzof\OneDrive - SESISENAISP - Escolas\Codigos\C#\Robo Selenium\Robo Selenium\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+C:\Users\enzof\OneDrive - SESISENAISP - Escolas\Codigos\C#\Robo Selenium\Robo Selenium\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+C:\Users\enzof\OneDrive - SESISENAISP - Escolas\Codigos\C#\Robo Selenium\Robo Selenium\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\enzof\OneDrive - SESISENAISP - Escolas\Codigos\C#\Robo Selenium\Robo Selenium\bin\Debug\net6.0\Robo Selenium.exe
+C:\Users\enzof\OneDrive - SESISENAISP - Escolas\Codigos\C#\Robo Selenium\Robo Selenium\bin\Debug\net6.0\Robo Selenium.deps.json
+C:\Users\enzof\OneDrive - SESISENAISP - Escolas\Codigos\C#\Robo Selenium\Robo Selenium\bin\Debug\net6.0\Robo Selenium.runtimeconfig.json
+C:\Users\enzof\OneDrive - SESISENAISP - Escolas\Codigos\C#\Robo Selenium\Robo Selenium\bin\Debug\net6.0\Robo Selenium.dll
+C:\Users\enzof\OneDrive - SESISENAISP - Escolas\Codigos\C#\Robo Selenium\Robo Selenium\bin\Debug\net6.0\Robo Selenium.pdb
+C:\Users\enzof\OneDrive - SESISENAISP - Escolas\Codigos\C#\Robo Selenium\Robo Selenium\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\enzof\OneDrive - SESISENAISP - Escolas\Codigos\C#\Robo Selenium\Robo Selenium\bin\Debug\net6.0\WebDriver.dll
+C:\Users\enzof\OneDrive - SESISENAISP - Escolas\Codigos\C#\Robo Selenium\Robo Selenium\obj\Debug\net6.0\Robo Selenium.csproj.CopyComplete
+C:\Users\enzof\OneDrive - SESISENAISP - Escolas\Codigos\C#\Robo Selenium\Robo Selenium\obj\Debug\net6.0\Robo Selenium.dll
+C:\Users\enzof\OneDrive - SESISENAISP - Escolas\Codigos\C#\Robo Selenium\Robo Selenium\obj\Debug\net6.0\refint\Robo Selenium.dll
+C:\Users\enzof\OneDrive - SESISENAISP - Escolas\Codigos\C#\Robo Selenium\Robo Selenium\obj\Debug\net6.0\Robo Selenium.pdb
+C:\Users\enzof\OneDrive - SESISENAISP - Escolas\Codigos\C#\Robo Selenium\Robo Selenium\obj\Debug\net6.0\Robo Selenium.genruntimeconfig.cache
+C:\Users\enzof\OneDrive - SESISENAISP - Escolas\Codigos\C#\Robo Selenium\Robo Selenium\obj\Debug\net6.0\ref\Robo Selenium.dll
